@@ -1,1 +1,2 @@
-# C25-priates-invasion
+# PRO-C25-SA
+boilerplate code for student activituy
